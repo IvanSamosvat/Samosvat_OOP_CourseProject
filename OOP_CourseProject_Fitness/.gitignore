@@ -6,7 +6,10 @@
 *.suo
 *.userosscache
 *.sln.docstates
-
+obj/
+bin/
+TestProject/bin/
+TestProject/obj/
 # Build results
 [Bb]in/
 [Oo]bj/
